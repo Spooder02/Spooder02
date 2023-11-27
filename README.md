@@ -7,7 +7,7 @@
 
 
 ### 사용한 언어 비중 :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spooder02)](https://github.com/spooder02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spooder02&hide=css)](https://github.com/spooder02/github-readme-stats)
 
 ### 알고리즘 해결 / BOJ :
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spooder02">
